@@ -1,6 +1,6 @@
 {
-    "name": "ask_for_date_web",
-    "short_name": "ask_for_date_web",
+    "name": "nothing_here",
+    "short_name": "nothing_here",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
