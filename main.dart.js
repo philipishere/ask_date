@@ -37048,7 +37048,7 @@ s.push(A.lm(A.b([r,B.kH,A.fg(A.eK("nooooooooooo",o,o,o,o,o,o,o,A.jr(B.j,18,1,1.5
 if(p.ch)B.b.I(m,A.b([B.IT,B.bu,new A.py(A.WV(B.Ap,t.z),new A.a8E(p),o,t.Am)],k))
 if(p.z){s=b.R(t.w).f
 r=A.aga(20,1.5)
-s=A.iP(A.a5H(l,A.G8(o,B.aD,o,o,o,o,o,B.aD,!0,B.aD,B.aD,o,o,o,B.j,!0,o,o,o,o,B.aD.l3(B.lr),B.aD,o,o,o,o,o,o,o,o,o,o,!1,!0,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o),p.x,3,o,o,o,n,r,B.aE,o),o,s.a.a*0.6)
+s=A.iP(A.a5H(l,A.G8(o,B.aD,o,o,o,o,o,B.aD,!0,B.aD,B.aD,o,o,o,B.j,!0,o,o,o,o,B.aD.l3(B.lr),B.aD,o,o,o,o,o,o,o,o,o,o,!1,!0,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o),p.x,3,o,o,o,n,r,B.aE,o),o,s.a.a*0.65)
 r=A.fO(o,o,o,o,o,o,o,o,o,o,o,o,o,new A.bK(A.eS(5),B.n),B.aH,o,o,o,o)
 q=n?"Unseal":"Seal"
 r=A.b([B.bu,B.IQ,B.bu,s,B.ar,A.fg(A.eK(q,o,o,o,o,o,o,o,A.jr(B.j,18,1,1.5),o,o,o),p.gYs(),r),B.kI],k)
@@ -37164,7 +37164,7 @@ if(k)l.push(B.IH)
 l.push(B.ar)
 r=b.R(t.w).f
 q=A.aga(20,1.5)
-l.push(A.iP(A.a5H(m,A.G8(n,B.aD,n,n,n,n,n,B.aD,!0,B.aD,B.aD,n,n,n,B.j,!0,n,n,n,n,B.aD.l3(B.lr),B.aD,n,n,n,n,n,n,n,n,n,n,!1,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n),o.x,3,n,n,n,j,q,B.aE,n),n,r.a.a*0.35))
+l.push(A.iP(A.a5H(m,A.G8(n,B.aD,n,n,n,n,n,B.aD,!0,B.aD,B.aD,n,n,n,B.j,!0,n,n,n,n,B.aD.l3(B.lr),B.aD,n,n,n,n,n,n,n,n,n,n,!1,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n),o.x,3,n,n,n,j,q,B.aE,n),n,r.a.a*0.65))
 l.push(B.ar)
 r=A.fO(n,n,n,n,n,n,n,n,n,n,n,n,n,new A.bK(A.eS(5),B.n),B.aH,n,n,n,n)
 q=j?"Unseal":"Seal"
@@ -37324,7 +37324,7 @@ m.push(B.di)
 if(l){q=b.R(q).f
 l=c.ee($.aiw(),t.c5)
 s=A.aga(20,1.5)
-q=A.iP(A.a5H(l,A.G8(r,B.aC,r,r,r,r,r,B.aC,!0,B.aC,B.aC,r,r,r,B.j,!0,r,r,r,r,B.aC.l3(B.ls),B.aC,r,r,r,r,r,r,r,r,r,r,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r),r,3,r,r,r,!1,s,B.aE,r),r,q.a.a*0.45)
+q=A.iP(A.a5H(l,A.G8(r,B.aC,r,r,r,r,r,B.aC,!0,B.aC,B.aC,r,r,r,B.j,!0,r,r,r,r,B.aC.l3(B.ls),B.aC,r,r,r,r,r,r,r,r,r,r,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r),r,3,r,r,r,!1,s,B.aE,r),r,q.a.a*0.65)
 s=A.fO(r,r,r,r,r,r,r,r,r,r,r,r,r,new A.bK(A.eS(5),B.n),B.aH,r,r,r,r)
 m.push(A.kJ(A.b([B.IF,B.di,q,B.di,A.fg(A.eK("Ask / Tell",r,r,r,r,r,r,r,A.jr(B.j,18,1,1.5),r,r,r),new A.W_(this,b,c),s)],n),B.Z,B.ao))}return A.a2l(r,A.eW(r,A.alf(m),B.v,r,r,r,r,r,r))}}
 A.W_.prototype={
