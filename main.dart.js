@@ -37037,10 +37037,10 @@ m=A.b([new A.bP("Hi thereeee "+p.gbk(p).ee($.afr(),m).a.a+"!",o,12,o)],k)
 if(p.y)B.b.I(m,A.b([B.ar,B.J_],k))
 m.push(B.bu)
 if(!p.Q&&!p.z){s=A.fO(o,o,o,o,o,o,o,o,o,o,o,o,o,new A.bK(A.eS(5),B.n),B.aH,o,o,o,o)
-r=p.y&&!p.z?"Ask awayyy":"Next"
+r=p.y&&!p.z?"Ask right awayyyyyy":"Next"
 s=A.b([new A.pv(1,B.me,A.fg(new A.dk(B.b5,A.eK(r,o,o,o,o,o,o,o,A.jr(B.j,18,1,1.5),B.aE,o,o),o),p.gH2(),s),o),B.kH],k)
 if(p.y&&!p.z){r=A.fO(o,o,o,o,o,o,o,o,o,o,o,o,o,new A.bK(A.eS(5),B.n),B.aH,o,o,o,o)
-s.push(new A.pv(1,B.me,A.fg(new A.dk(B.b5,A.eK("Nooo, kennot, x mau, bu yao, nein",o,o,o,o,o,o,o,A.jr(B.j,18,1,1.5),B.aE,o,o),o),p.gH3(),r),o))}m.push(A.lm(s,B.aW,B.Z,B.bM))}if(p.Q){s=A.b([B.II,B.bu,B.IP,B.bu],k)
+s.push(new A.pv(1,B.me,A.fg(new A.dk(B.b5,A.eK("Nooo, kennot, tak mau, bu yao, nein",o,o,o,o,o,o,o,A.jr(B.j,18,1,1.5),B.aE,o,o),o),p.gH3(),r),o))}m.push(A.lm(s,B.aW,B.Z,B.bM))}if(p.Q){s=A.b([B.II,B.bu,B.IP,B.bu],k)
 if(!p.ch&&!p.z){r=A.fO(o,o,o,o,o,o,o,o,o,o,o,o,o,new A.bK(A.eS(5),B.n),B.aH,o,o,o,o)
 r=A.fg(A.eK("ok, ask",o,o,o,o,o,o,o,A.jr(B.j,18,1,1.5),o,o,o),p.gH2(),r)
 q=A.fO(o,o,o,o,o,o,o,o,o,o,o,o,o,new A.bK(A.eS(5),B.n),B.aH,o,o,o,o)
