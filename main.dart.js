@@ -36923,7 +36923,7 @@ A.GS.prototype={
 K(a,b){return new A.wL(B.AU,"nothing suspicious here...",A.agV(null,B.rP,B.Jd),null)}}
 A.oB.prototype={
 mz(a,b,c){var s=b.R(t.w).f.a,r=c.ed($.afo(),t.y),q=s.b*0.4,p=s.a*0.5
-return A.a2j(null,new A.w8(A.b([A.agw(B.AM,A.XT("assets/gifs/bare_bear_yay.webp",q,p)),A.agw(B.Gt,B.J_),A.agw(B.MK,A.XT("assets/gifs/ice_bear_thinking.webp",q,p))],t.bR),new A.Su(b,c),B.IK,B.IX,B.IL,r,!0,!0,B.v,B.Af,null))}}
+return A.a2j(null,new A.w8(A.b([A.agw(B.AM,A.XT("assets/gifs/bare_bear_yay.webp",q,p)),A.agw(B.Gt,B.J_),A.agw(B.MK,A.XT("assets/gifs/ice_bear_thinking.webp",q,p))],t.bR),new A.Su(b,c),B.IK,B.IY,B.IL,r,!0,!0,B.v,B.Af,null))}}
 A.Su.prototype={
 $0(){var s=0,r=A.W(t.H),q,p=2,o,n=[],m=this,l,k,j,i,h,g,f,e,d
 var $async$$0=A.X(function(a,b){if(a===1){o=b
@@ -37033,7 +37033,7 @@ l(a){this.x.l(0)
 this.aW(0)},
 K(a,b){var s,r,q,p=this,o=null,n=p.gbp(p).ed($.afo(),t.y),m=t.c,l=p.gbp(p).ed($.afn(),m),k=t.F
 m=A.b([new A.bP("Hi thereeee "+p.gbp(p).ed($.afp(),m).a.a+"!",o,12,o)],k)
-if(p.y)B.b.I(m,A.b([B.ar,B.IZ],k))
+if(p.y)B.b.I(m,A.b([B.ar,B.IQ],k))
 m.push(B.bu)
 if(!p.Q&&!p.z){s=A.fO(o,o,o,o,o,o,o,o,o,o,o,o,o,new A.bK(A.eR(5),B.n),B.aH,o,o,o,o)
 r=p.y&&!p.z?"Ask right awayyyyyy":"Next"
@@ -37043,8 +37043,8 @@ s.push(new A.pu(1,B.md,A.fg(new A.dj(B.b5,A.eJ("Nooo, kennot, tak mau, bu yao, n
 if(!p.ch&&!p.z){r=A.fO(o,o,o,o,o,o,o,o,o,o,o,o,o,new A.bK(A.eR(5),B.n),B.aH,o,o,o,o)
 r=A.fg(A.eJ("ok, ask",o,o,o,o,o,o,o,A.jq(B.j,18,1,1.5),o,o,o),p.gH1(),r)
 q=A.fO(o,o,o,o,o,o,o,o,o,o,o,o,o,new A.bK(A.eR(5),B.n),B.aH,o,o,o,o)
-s.push(A.ln(A.b([r,B.kG,A.fg(A.eJ("nooooooooooo",o,o,o,o,o,o,o,A.jq(B.j,18,1,1.5),o,o,o),p.gH2(),q)],k),B.aW,B.Z,B.bM))}B.b.I(m,s)}if(p.z&&p.Q)B.b.I(m,A.b([B.IR,B.ar],k))
-if(p.ch)B.b.I(m,A.b([B.IS,B.bu,new A.px(A.WU(B.Ao,t.z),new A.a8C(p),o,t.Am)],k))
+s.push(A.ln(A.b([r,B.kG,A.fg(A.eJ("nooooooooooo",o,o,o,o,o,o,o,A.jq(B.j,18,1,1.5),o,o,o),p.gH2(),q)],k),B.aW,B.Z,B.bM))}B.b.I(m,s)}if(p.z&&p.Q)B.b.I(m,A.b([B.IS,B.ar],k))
+if(p.ch)B.b.I(m,A.b([B.IT,B.bu,new A.px(A.WU(B.Ao,t.z),new A.a8C(p),o,t.Am)],k))
 if(p.z){s=b.R(t.w).f
 r=A.ag9(20,1.5)
 s=A.iO(A.a5F(l,A.G8(o,B.aD,o,o,o,o,o,B.aD,!0,B.aD,B.aD,o,o,o,B.j,!0,o,o,o,o,B.aD.l3(B.lq),B.aD,o,o,o,o,o,o,o,o,o,o,!1,!0,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o),p.x,o,3,o,o,o,n,r,B.aE,o),o,s.a.a*0.65)
@@ -37070,8 +37070,8 @@ $1(a){return B.Ab},
 $S:128}
 A.a8C.prototype={
 $2(a,b){var s=null
-if(b.a===B.f8)return A.kJ(A.b([B.IU,B.bu,A.fg(B.MJ,new A.a8B(this.a,a),A.fO(s,s,s,s,s,s,s,s,s,s,s,s,s,new A.bK(A.eR(5),B.n),B.aH,s,s,s,s))],t.F),B.Z,B.ao)
-return B.IW},
+if(b.a===B.f8)return A.kJ(A.b([B.IV,B.bu,A.fg(B.MJ,new A.a8B(this.a,a),A.fO(s,s,s,s,s,s,s,s,s,s,s,s,s,new A.bK(A.eR(5),B.n),B.aH,s,s,s,s))],t.F),B.Z,B.ao)
+return B.IX},
 $S:213}
 A.a8B.prototype={
 $0(){var s,r=this.a
@@ -37148,7 +37148,7 @@ this.aW(0)},
 K(a,b){var s,r,q,p,o=this,n=null,m=o.gbp(o).ed($.S_(),t.c),l=t.y,k=o.gbp(o).ed($.aiz(),l),j=o.gbp(o).ed($.afr(),l)
 l=t.F
 s=A.b([],l)
-if(o.y)s.push(B.IY)
+if(o.y)s.push(B.IZ)
 s.push(B.ar)
 if(o.z)s.push(B.IF)
 s.push(B.ar)
@@ -37235,7 +37235,7 @@ s=A.bn(r,!1).bA(0,s,t.an)
 a.toString
 J.i(s).ei(s,a)},
 K(a,b){var s=this,r=null,q=s.gbp(s).ed($.kA(),t.sg),p=t.FT,o=s.ga1H(),n=t.wS,m=t.F
-return A.kJ(A.b([B.IV,B.ar,new A.KK(A.b([new A.qn("Yes",A.agF(new A.cI(B.j,p),q,o,B.dE,n),new A.acn(s,q),r),new A.qn("No",A.agF(new A.cI(B.j,p),q,o,B.dF,n),new A.aco(s,q),r),new A.qn("Idk",A.agF(new A.cI(B.j,p),q,o,B.dG,n),new A.acp(s,q),r)],m),r)],m),B.Z,B.ao)}}
+return A.kJ(A.b([B.IW,B.ar,new A.KK(A.b([new A.qn("Yes",A.agF(new A.cI(B.j,p),q,o,B.dE,n),new A.acn(s,q),r),new A.qn("No",A.agF(new A.cI(B.j,p),q,o,B.dF,n),new A.aco(s,q),r),new A.qn("Idk",A.agF(new A.cI(B.j,p),q,o,B.dG,n),new A.acp(s,q),r)],m),r)],m),B.Z,B.ao)}}
 A.acn.prototype={
 $0(){var s,r
 if(this.b===B.dE)return
@@ -37301,7 +37301,7 @@ case 5:case 1:return A.U(q,r)
 case 2:return A.T(o,r)}})
 return A.V($async$r0,r)},
 mz(a,b,c){var s,r,q=null,p=t.w,o=b.R(p).f.a,n=c.ed($.aiy(),t.y),m=t.F,l=A.b([B.HL],m),k=!n
-if(k)l.push(B.IT)
+if(k)l.push(B.IU)
 if(n)l.push(B.IJ)
 l.push(B.cy)
 l.push(A.XT("assets/gifs/thank_you_bear.webp",o.b*0.3,o.a*0.5))
@@ -69385,8 +69385,8 @@ B.m4=new A.aF(10,10,10,10)
 B.IN=new A.bP("tbh you have really nice smile :) cute and look better in real life of coursee\nApart from that, personality wise; I think you're quite independent & also easy-going [especially in food hahah].\nOf course there's still alot more about you that I doesn't know about.\nBut hopefullyy we can work that out next time.",B.p,10,null)
 B.FS=new A.dj(B.m4,B.IN,null)
 B.Aa=new A.ic(B.FS,null)
-B.IQ=new A.bP("it was lil awkward at first not gonna lie, i'm real nervouss & i even stutter at times omg\nBut when we started walking around it became more comfortable.\nI really like it in the end when we sit & talk about stuff.\nCould be better if im not that nervous, im soliiii\nStill, im grateful that we're able to go out & have some food together :)",B.p,10,null)
-B.FT=new A.dj(B.m4,B.IQ,null)
+B.IR=new A.bP("it was lil awkward at first not gonna lie, i'm real nervouss & i even stutter at times omg\nBut when we started walking around it became more comfortable.\nI really like it in the end when we sit & talk about stuff.\nCould be better if im not that nervous, im soliiii\nStill, im grateful that we're able to go out & have some food together :)",B.p,10,null)
+B.FT=new A.dj(B.m4,B.IR,null)
 B.Ab=new A.ic(B.FT,null)
 B.Ac=new A.eX(1,"horizontal")
 B.fe=new A.eX(2,"endToStart")
@@ -70971,15 +70971,15 @@ B.IL=new A.bP("Previous Page",null,6.5,null)
 B.IM=new A.bP("orrrr do you prefer to know what do I think of you first? haha",null,12,null)
 B.IO=new A.bP("reallyyyyy no? \ud83e\udd72",null,12,null)
 B.IP=new A.bP("> How was the hangout orr do I call it a date? hahah",B.j,12,null)
-B.IR=new A.bP("> ok, ask",B.h5,12,null)
-B.IS=new A.bP("> nooooooooooo",B.h5,12,null)
-B.IT=new A.bP("That's all for my question\nThank you again for your time :)",null,12,null)
-B.IU=new A.bP("okkkkkieehhhh, imma try ask you in insta thenn",null,12,null)
-B.IV=new A.bP("If I am to ask you out again, would you go?",null,12,null)
-B.IW=new A.bP("loading...gimme a moment\nfinding best response...",null,12,null)
-B.IX=new A.bP("Next Page",null,8,null)
-B.IY=new A.bP("actuallyyy I wonder what's your impression of me, since we've met.",null,12,null)
-B.IZ=new A.bP("Actuallyy, there's some question I would like to ask if you don't mind",null,12,null)
+B.IQ=new A.bP("Actuallyy, there's some question I would like to ask and get your honest answer if you don't mind",null,12,null)
+B.IS=new A.bP("> ok, ask",B.h5,12,null)
+B.IT=new A.bP("> nooooooooooo",B.h5,12,null)
+B.IU=new A.bP("That's all for my question\nThank you again for your time :)",null,12,null)
+B.IV=new A.bP("okkkkkieehhhh, imma try ask you in insta thenn",null,12,null)
+B.IW=new A.bP("If I am to ask you out again, would you go?",null,12,null)
+B.IX=new A.bP("loading...gimme a moment\nfinding best response...",null,12,null)
+B.IY=new A.bP("Next Page",null,8,null)
+B.IZ=new A.bP("actuallyyy I wonder what's your impression of me, since we've met.",null,12,null)
 B.J_=new A.bP("Second question isssssss",B.h6,12,null)
 B.Jf=new A.dZ(0,0,B.l,!1,0,0)
 B.uT=new A.dI("",B.Jf,B.aF)
